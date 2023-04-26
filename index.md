@@ -1,6 +1,6 @@
 *Somewhenever* is a year long series of storytelling events taking place somewhen throughout 2023 on the beautiful island of the Isle of Wight, just off the south coast of England.
 
-<strong><a href="./somewhen-festival-2023"> >>> SOMEWHEN FESTIVAL 2023 WEBSITE <<<</a></strong>
+<strong><a href="./somewhen-festival-2023"> >>> SOMEWHEN FESTIVAL 2023 WEBSITE <<< </a></strong>
 
 <div style="text-align: center;"><a href=""><img width="50%" src="images/Island_Storytellers_A4_poster_2023_v2_compressed_no_sponsors.png" /></a></div>
 
