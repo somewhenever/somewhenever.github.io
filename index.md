@@ -23,6 +23,6 @@ _“Gruesome, fantastical and hypnotic, Morden’s stories show why fairytales w
 
 *This performance of 'Dark Tales from the Woods' is promoted by the Island Storytellers as part of __Somewhen__, a year-long celebration of storytelling, funded by an Arts Council National Lottery Project Grant.*
 
-[Tickets now available for purchase](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) (£10, Culture / Unlimited Pass 2for1)
+[__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
 <hr/>
