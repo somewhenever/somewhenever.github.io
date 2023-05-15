@@ -10,7 +10,7 @@ The events kick off with the first [*Somewhen Storytelling Festival, 2023*](./so
 
 __ALSO BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
-<div style="text-align: center;"><h3>DANIEL MORDEN — DARK TALES FROM THE WOODS</h3>
+<div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">DANIEL MORDEN — DARK TALES FROM THE WOODS</a></h3>
 <p><a href=""><img width="50%" src="images/dan_morden_face.jpg" /></a></p></div>
 
 __A hundred years ago the famous Welsh gypsy family the Woods told wild fairy tales around the fire- tales of shapeshifting and magic and drama and danger.__
