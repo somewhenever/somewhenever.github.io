@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-The events kick off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023) on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
+The events kick off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, and plenty for children too. Come and join us on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
 
 <hr/>
 
