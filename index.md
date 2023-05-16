@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Island_Storytellers_A4_poster_2023_FINAL_compressed.png" /></a></div>
+<div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Somewhen_poster_2023_FINAL_v2_compressed.png" /></a></div>
 
 <br/><br/>
 
