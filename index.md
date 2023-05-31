@@ -34,3 +34,6 @@ _“Gruesome, fantastical and hypnotic, Morden’s stories show why fairytales w
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
 <hr/>
+
+<script data-goatcounter="https://somewhen.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
