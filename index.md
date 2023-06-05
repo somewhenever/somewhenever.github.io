@@ -65,7 +65,7 @@ So make yourself comfortable, and journey to the land of once upon a time, where
 
 What could possibly go wrong...?
 
-<br/><hr/>
+<hr/>
 
 ## Previous Events
 
@@ -81,7 +81,7 @@ The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Stor
 
 *Somewhen Storytelling* is supported by an Arts Council National Lottery Project Grant.
 
-![Arts Council / National Lottry funded logo.](images/arts_council_supported_black.png")
+![Arts Council / National Lottery funded logo.](./images/arts_council_supported_black.png)
 
 <script data-goatcounter="https://somewhen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
