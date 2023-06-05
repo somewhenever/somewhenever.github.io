@@ -1,6 +1,6 @@
 *Somewhenever* is a year long series of storytelling events taking place somewhen throughout 2023 on the beautiful island of the Isle of Wight, just off the south coast of England.
 
-__Tellers, not readers. *Spoken, not read.* Not (just) for children.__
+__*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/><br/>
 
