@@ -22,9 +22,11 @@ _“Gruesome, fantastical and hypnotic, Morden’s stories show why fairytales w
 
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
+
 <hr/>
 
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">'TIS TALES — HERE BE GIANTS</a></h3>
+</div>
 
 Friday 28 July 2023, 3:00 pm - 4:00 pm  
 Ventnor Arts Club  
@@ -41,6 +43,7 @@ Don’t miss their fresh and enthusiastic renditions of these tales. The stories
 <hr/>
 
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">ISLAND STORYTELLERS — GREEN</a></h3>
+</div>
 
 Date / time: TBC  
 Ventnor Library (TBC)  
@@ -48,6 +51,7 @@ Ventnor Library (TBC)
 <hr/>
 
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">TONY "MONTY" HIRST — UNFORESEEN CONSEQUENCES</a></h3>
+</div>
 
 Sunday 23 July 2023, 5:00pm - 6.00pm  
 Boniface Studios (The Hall)  
@@ -65,7 +69,7 @@ What could possibly go wrong...?
 
 ## Previous Events
 
-The *Somewhenever Stroytelling* events kicked off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, with plenty for children too, on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
+The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, with plenty for children too, on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
 
 <br/><br/>
 
@@ -74,6 +78,10 @@ The *Somewhenever Stroytelling* events kicked off with the first [*Somewhen Stor
 <div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Somewhen_poster_2023_FINAL_v2_compressed.png" /></a></div>
 
 <hr/>
+
+*Somewhen Storytelling* is supported by an Arts Council National Lottery Project Grant.
+
+![Arts Council / National Lottry funded logo.](images/arts_council_supported_black.png")
 
 <script data-goatcounter="https://somewhen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
