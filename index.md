@@ -22,6 +22,8 @@ _“Gruesome, fantastical and hypnotic, Morden’s stories show why fairytales w
 
 *This performance of 'Dark Tales from the Woods' is promoted by the Island Storytellers as part of __Somewhen__, a year-long celebration of storytelling, funded by an Arts Council National Lottery Project Grant.*
 
+Date: Wednesday 26th July 5-6pm  
+Venue: Boniface Studios (The Hall)  
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
 
@@ -47,8 +49,8 @@ What could possibly go wrong...?
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/green/">TONY "MONTY" HIRST — TRADITIONAL TALES</a></h3>
 </div>
 
-Date / time: Tuesday 25 July 2023, 1:00 pm - 1:30 pm
-Fringe Square, Ventnor
+Date / time: Tuesday 25 July 2023, 1:00 pm - 1:30 pm  
+Fringe Square, Ventnor  
 FREE / Free Fringe
 
 <hr/> 
@@ -57,7 +59,7 @@ FREE / Free Fringe
 </div>
 
 Date / time: Wednesday 26 July 2023, 7:30 pm - 9:30 pm  
-Ventnor Library 
+Ventnor Library  
 
 GREEN is life itself. From the smallest flower to the oldest oak; flashing eyes of love to the dark plots of jealous envy; ‘The force through the green fuse drives the flower…’. And don’t forget lizards, parrots and dragons with their GREEN Scales and Tails. Come to hear GREEN stories of every description as told by the Island Storytellers.
 
@@ -88,8 +90,8 @@ Don’t miss their fresh and enthusiastic renditions of these tales. The stories
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/one-sock-a-storytelling-riddle-filled-sock-hunt/">SUE BAILEY — ONE SOCK - A STORYTELLING RIDDLE FILLED SOCK HUNT</a></h3>
 </div>
 
-Saturday 29 July 2023 11:00am and Sunday 30 July 2023 11:00am
-Assemble: Ventnor Town Council 1, Salisbury Gardens, Dudley Road
+Saturday 29 July 2023 11:00am and Sunday 30 July 2023 11:00am  
+Assemble: Ventnor Town Council 1, Salisbury Gardens, Dudley Road  
 Tickets: [£6 per child – adults free, Culture /Unlimited Pass 2for1](https://thelittleboxoffice.com/ventnorexchange/book/event/179862)
 
 
