@@ -10,6 +10,11 @@ __NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">DANIEL MORDEN — DARK TALES FROM THE WOODS</a></h3>
 
+
+Date: Wednesday 26th July 5-6pm  
+Venue: Boniface Studios (The Hall)  
+[__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
+
 <p><a href=""><img width="50%" src="images/dan_morden_face.jpg" /></a></p></div>
 
 __A hundred years ago the famous Welsh gypsy family the Woods told wild fairy tales around the fire- tales of shapeshifting and magic and drama and danger.__
@@ -21,11 +26,6 @@ In 2017 Daniel was awarded the Hay Festival Medal for his services to storytelli
 _“Gruesome, fantastical and hypnotic, Morden’s stories show why fairytales will never lose their power over our imaginations.” – `The Times`_
 
 *This performance of 'Dark Tales from the Woods' is promoted by the Island Storytellers as part of __Somewhen__, a year-long celebration of storytelling, funded by an Arts Council National Lottery Project Grant.*
-
-Date: Wednesday 26th July 5-6pm  
-Venue: Boniface Studios (The Hall)  
-[__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
-
 
 <hr/>
 
