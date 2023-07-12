@@ -6,7 +6,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 __NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
-<div style="text-align: center;"><img src="images/dm-vf.jpeg" width=40% style="border:10px" /> <img src="images/sw-vf.jpeg" width=40% style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/dm-vf.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
 <div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">DANIEL MORDEN — DARK TALES FROM THE WOODS</a></h3>
 
