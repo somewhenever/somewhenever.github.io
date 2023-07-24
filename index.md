@@ -12,7 +12,7 @@ __NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
 <h4>DANIEL MORDEN — DARK TALES OF THE WOODS — CANCELLED DUE TO ILLNESS. REPLACEMENT SHOW (SAME TIME, SAME PLACE): XANTHE GRESHAM_KNIGHT — BAG OF WONDERS</h4>
 
-<h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">XANTHE GRESHAM-KNIGHT — BAG OF WONDERS</a></h3>
+<h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">XANTHE GRESHAM-KNIGHT — BAG OF WONDERS</a></h3></div>
 
 Date: Wednesday 26th July 5-6pm  
 Venue: Boniface Studios (The Hall)  
@@ -31,7 +31,7 @@ As presented at the Soho Theatre and Literature Festivals throughout the UK, Eur
 
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
-<p><a href=""><img width="50%" src="images/bag-of-wonders1.jpg" /></a></p></div>
+<p><a href=""><img width="50%" src="images/bag-of-wonders1.jpg" /></a></p>
 
 <hr/>
 
@@ -50,7 +50,7 @@ The storytelling trio’s success at last year’s Fringe helped kick start the 
 
 Don’t miss their fresh and enthusiastic renditions of these tales. The stories may have been first told once upon a somewhenever, somewherever, a very long time ago… but be assured , these tales will stay with you long after the last word is spoken.
 
-<p><a href=""><img width="50%" src="images/tis-vf--giant.png" /></a></p>
+<p style="text-align: center;"><a href=""><img width="50%" src="images/tis-vf--giant.png" /></a></p>
 
 <hr/>
 
@@ -68,7 +68,7 @@ So make yourself comfortable, and journey to the land of once upon a time, where
 
 What could possibly go wrong...?
 
-<p><a href=""><img width="50%" src="images/month-vf--unforeseen.png" /></a></p>
+<p style="text-align: center;"><a href=""><img width="50%" src="images/month-vf--unforeseen.png" /></a></p>
 
 <hr/>
 
