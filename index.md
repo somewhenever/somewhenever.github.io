@@ -6,20 +6,25 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 __NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
+<div style="text-align: center;">
+<h3>DANIEL MORDEN — DARK TALES OF THE WOODS — CANCELLED DUE TO ILLNESS. REPLACEMENT SHOW (SAME TIME, SAME PLACE): XANTHE GRESHAM_KNIGHT — BAG OF WONDERS</h3>
+</div>
+
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
 <div style="text-align: center;">
-
-<h4>DANIEL MORDEN — DARK TALES OF THE WOODS — CANCELLED DUE TO ILLNESS. REPLACEMENT SHOW (SAME TIME, SAME PLACE): XANTHE GRESHAM_KNIGHT — BAG OF WONDERS</h4>
 
 <h3><a href="https://vfringe.co.uk/events/dark-tales-from-the-woods/">XANTHE GRESHAM-KNIGHT — BAG OF WONDERS</a></h3></div>
 
 Date: Wednesday 26th July 5-6pm  
 Venue: Boniface Studios (The Hall)  
 
-__Storytelling that’s as sharp as a lemon and as sweet as a nut. Accept it or not, we’re all hooked on our baggage system...
+__Storytelling that’s as sharp as a lemon and as sweet as a nut. Accept it or not, we’re all hooked on our baggage system...__
 
 ...whether it’s a clutch bag or a holdall. But forget what’s in yours, and come and rummage around in Xanthe’s bottomless bag. Between the kitchen sink and the old tube tickets lies a pick and mix of marvels, fibs and fables.
+
+
+<p style="text-align: center;"><a href=""><img width="80%" src="images/bag-of-wonders1.jpg" /></a></p>
 
 Featuring audience prompted stories accompanied by great accordion playing, performer Xanthe Gresham-Knight is hot footing it down from international storytelling festival, Festival at the Edge, to Ventnor, to present storytelling in its liveliest and most interactive form. So come and see what you can pull from this lucky dip!
 
@@ -31,7 +36,6 @@ As presented at the Soho Theatre and Literature Festivals throughout the UK, Eur
 
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
 
-<p><a href=""><img width="50%" src="images/bag-of-wonders1.jpg" /></a></p>
 
 <hr/>
 
