@@ -4,11 +4,11 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/><br/>
 
-__NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
-
 <div style="text-align: center;">
 <h3>DANIEL MORDEN — DARK TALES OF THE WOODS — CANCELLED DUE TO ILLNESS. REPLACEMENT SHOW (SAME TIME, SAME PLACE): XANTHE GRESHAM_KNIGHT — BAG OF WONDERS</h3>
 </div>
+
+__NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
