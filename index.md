@@ -56,23 +56,6 @@ Don’t miss their fresh and enthusiastic renditions of these tales. The stories
 
 <p style="text-align: center;"><a href=""><img width="50%" src="images/tis-vf--giant.png" /></a></p>
 
-<hr/>
-
-<div style="text-align: center;"><h3><a href="https://vfringe.co.uk/events/unforeseen-consequences/">TONY "MONTY" HIRST — UNFORESEEN CONSEQUENCES</a></h3></div>
-
-Sunday 23 July 2023, 5:00pm - 6.00pm  
-Boniface Studios (The Hall)  
-Tickets: [£8, Under 25 £5, Culture / Unlimited Pass 2for1](https://thelittleboxoffice.com/ventnorexchange/event/view/181093)
-
-__Whatever the streaming services try to tell you, the best stories, and the best storytelling, are NOT best told through a screen...__
-
-The best stories are the stories that just kept on, and keep on, being told, somewherever, and somewhenever, for generations. And the best way to experience them is the original way - from a storyteller. Traditional stories, traditionally told, but still as colourful and vibrant, and entertaining as ever they were. Every so often, some of them disappear from view, but then they make a return, and re-enter the storytelling tradition they never really left...
-
-So make yourself comfortable, and journey to the land of once upon a time, where tales are told that aren't (just) for children. Come and hear island based storyteller [Tony "Monty" Hirst](https://tistales.org.uk/about/monty/) tell of how two farmers tried to get the better of their neighbour, whilst a young prince accepted a challenge to win a beautiful princess. A dragon-serpent watches on as a childless old couple suddenly find they have a child to bring up, a blacksmith does a deal with a devil, and young man certainly knows how to use his head.
-
-What could possibly go wrong...?
-
-<p style="text-align: center;"><a href=""><img width="50%" src="images/month-vf--unforeseen.png" /></a></p>
 
 <hr/>
 
@@ -129,6 +112,24 @@ The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Stor
 <div style="text-align: center;"><strong><a href="./somewhen-festival-2023"> &gt;&gt;&gt; Somewhen Festival, 2023</a></strong></div>
 
 <div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Somewhen_poster_2023_FINAL_v2_compressed.png" /></a></div>
+
+<hr/>
+
+<div style="text-align: center;"><h3>TONY "MONTY" HIRST — UNFORESEEN CONSEQUENCES</h3></div>
+
+Ventnor Fringe 2023 — Sunday 23 July 2023, 5:00pm - 6.00pm  
+Boniface Studios (The Studio)  
+Tickets were priced: *£8, Under 25 £5, Culture / Unlimited Pass 2for1*
+
+__Whatever the streaming services try to tell you, the best stories, and the best storytelling, are NOT best told through a screen...__
+
+The best stories are the stories that just kept on, and keep on, being told, somewherever, and somewhenever, for generations. And the best way to experience them is the original way - from a storyteller. Traditional stories, traditionally told, but still as colourful and vibrant, and entertaining as ever they were. Every so often, some of them disappear from view, but then they make a return, and re-enter the storytelling tradition they never really left...
+
+So make yourself comfortable, and journey to the land of once upon a time, where tales are told that aren't (just) for children. Come and hear island based storyteller [Tony "Monty" Hirst](https://tistales.org.uk/about/monty/) tell of how two farmers tried to get the better of their neighbour, whilst a young prince accepted a challenge to win a beautiful princess. A dragon-serpent watches on as a childless old couple suddenly find they have a child to bring up, a blacksmith does a deal with a devil, and young man certainly knows how to use his head.
+
+What could possibly go wrong...?
+
+<p style="text-align: center;"><a href=""><img width="50%" src="images/month-vf--unforeseen.png" /></a></p>
 
 <hr/>
 
