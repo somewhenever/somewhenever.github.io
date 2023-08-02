@@ -13,7 +13,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <div style="text-align: center;"><img src="images/Somewhenever-Story-tent-logo-small-copy.jpg" width="40%" style="border:10px" /><br/>
 
 <br/>
-<h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 10AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
+<h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 11AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
 <br/><br/>
 <img src="images/Somewhenever-story-tent-timetable-2023.jpg" width="60%" style="border:10px" /></div>
 
