@@ -2,7 +2,6 @@
 
 __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
-
 <br/><br/>
 
 <div style="text-align: center;">
@@ -12,14 +11,45 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 </div>
 
 <div style="text-align: center;"><img src="images/Somewhenever-Story-tent-logo-small-copy.jpg" width="40%" style="border:10px" /><br/>
-</br/>
+
+<br/>
 <h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 10AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
 <br/></br/>
 <img src="images/Somewhenever-story-tent-timetable-2023.jpg" width="60%" style="border:10px" /></div>
 
 <br/><br/>
 
-__OVER FOR ANOTHR YEAR — SOMEWHEN EVENTS AT VENTNOR FRINGE__
+<h2>OVER FOR ANOTHER YEAR — SOMEWHEN EVENTS AT VENTNOR FRINGE, 2023</h2>
+
+<p>Giants, green dragons, wonder tales, sock hunts…. The Island Storyteller's Somewhen team  brought a myriad of stories to Ventnor Fringe last week in a multitude of events.  Internationally renowned storyteller Xanthe Gresham Knight enthralled the audience with her tales chosen by the audience; Xanthe had stepped in at the last moment as well-known storyteller, Daniel Morden, had been taken ill. Sue Bailey said " It was great that Xanthe was able to come. We were looking for someone of a similar calibre to Daniel, and Xanthe pulled the stops out to fill the void with mesmerising stories and accordion playing".</p>
+
+<div><img src="images/xanthe-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+
+<p>Tony ‘Monty' Hirst hot-footed from a pop-up Somewhen Storytelling set at Calbourn Watermill's *Arthurian Weekend* to open up the feast of Somewhen storytelling events at the Fringe with another outing of 'Unforeseen Consequences', his set of slightly nonsensical tales where the outcome is not always expected! He said "The fringe is a fantastic opportunity for bringing traditional stories to new audiences. Storytelling was the standup of its day, and many of the tales work as well today as ever they did."</p>
+
+<div><img src="images/sw_banner_watermill.jpg" width="60%" style="border:10px" /></div>
+
+<p>On the Wednesday midway through Fringe week, seven regulars people, from the Island Storytellers' monthly story round, took to the floor to tell tales linked by the word green.  Sue continued  "I loved the diversity of voices and styles at our ‘Green' storytelling at Ventnor library. It really showed that stories come in many forms whether they are based on anecdotes, traditional folk tales  or even on impossibly probable animal stories.  We rocked with laughter when local storyteller Sue Clark related  her story of how their caravanning group  converted a car into a green dragon."</p>
+
+<div><img src="images/sue-clarke-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+
+<p>Stories continued on the final Friday, when <a href="https://tistales.org.uk/">TisTales</a>, a trio of local storytellers, regaled a packed audience at Ventnor Arts Club with tales of giants.  Holly Medland's tales of the origin of Britain gave a possible insight into the assertive nature of women on these islands today, as the heroine, Albina, encouraged the daughters of a  Syrian king to rise up against the mundane and devaluing requirements of being  obedient and subservient wives.</p>
+
+<div><img src="images/holly-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+
+<p>Welsh hero, Bendigeidfran ("Bran the Blessed"), Irish giant, Fionn mac Cumhail and Norse god, Thor, also featured in this excellent hour of stories.</p>
+
+<div><img src="images/sw_banner_arts_club_vf_2023.jpg" width="60%" style="border:10px" /></div>
+
+<p>On Saturday and Sunday Sue Bailey led one of her infamous and highly engaging storywalks. "One sock – a riddle  and story filled sock hunt, is such fun"  said Sue.  "The children are very sharp eyed and always manage to follow the clues and find all my missing socks.  I love the way they work  together and even though they are keen to be the finders,  they make sure all the children taking part have a chance to find something".</p>
+
+<div><img src="images/sue-socks-walk-vf-2023.jpg" width="60%" style="border:10px" /></div>
+
+<p>As wll as ticketed performances, stories were also told as part of several free fringe sets in the Fringe Square.</p>
+
+<div><img src="images/sw_banner_fringe_sq_vf_2023.jpg" width="60%" style="border:10px" /></div>
+
+<p>Sue Bailey continued "It has been great being part of Ventnor Fringe.  We are very grateful to the organisers  for providing a platform for all the performances,  whether they be local, national or international.  Our storytelling events this week have been part of a year long lottery supported project called ‘Somewhen Storytelling'.</p>
 
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
@@ -30,10 +60,9 @@ __OVER FOR ANOTHR YEAR — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 Date: Wednesday 26th July 5-6pm  
 Venue: Boniface Studios (The Hall)  
 
-__Storytelling that’s as sharp as a lemon and as sweet as a nut. Accept it or not, we’re all hooked on our baggage system...__
+__Storytelling that's as sharp as a lemon and as sweet as a nut. Accept it or not, we're all hooked on our baggage system...__
 
-...whether it’s a clutch bag or a holdall. But forget what’s in yours, and come and rummage around in Xanthe’s bottomless bag. Between the kitchen sink and the old tube tickets lies a pick and mix of marvels, fibs and fables.
-
+...whether it's a clutch bag or a holdall. But forget what's in yours, and come and rummage around in Xanthe's bottomless bag. Between the kitchen sink and the old tube tickets lies a pick and mix of marvels, fibs and fables.
 
 <p style="text-align: center;"><a href=""><img width="80%" src="images/bag-of-wonders1.jpg" /></a></p>
 
@@ -43,10 +72,9 @@ As presented at the Soho Theatre and Literature Festivals throughout the UK, Eur
 
 "An audible feast!" *Gulf News, Waiheke Island New Zealand*
 
-"The Island story-loving audience - and anyone story-curious - is going to LOVE Xanthe’s repertoire of stories and her playful, connected style of telling and her verbal ingenuity!" *Nell Phoenix, Somewhen Storytelling Festival, 2023, headliner*
+"The Island story-loving audience - and anyone story-curious - is going to LOVE Xanthe's repertoire of stories and her playful, connected style of telling and her verbal ingenuity!" *Nell Phoenix, Somewhen Storytelling Festival, 2023, headliner*
 
 [__Tickets now available for purchase__](https://thelittleboxoffice.com/ventnorexchange/book/event/180553) *(£10, Culture / Unlimited Pass 2for1)*
-
 
 <hr/>
 
@@ -61,9 +89,9 @@ The three Island storytellers, Holly Medland, Monty (Tony) Hirst and Sue Bailey,
 
 Trolls, ogres, giants and gargantuan monsters, – all have a nightmarish place in the human psyche. Come and hear how the mighty are overcome in tales, of foolishness and bravery, from near and far flung lands.
 
-The storytelling trio’s success at last year’s Fringe helped kick start the Isle of Wight’s very own Somewhen Storytelling Festival, which took place in June this year.
+The storytelling trio's success at last year's Fringe helped kick start the Isle of Wight's very own Somewhen Storytelling Festival, which took place in June this year.
 
-Don’t miss their fresh and enthusiastic renditions of these tales. The stories may have been first told once upon a somewhenever, somewherever, a very long time ago… but be assured , these tales will stay with you long after the last word is spoken.
+Don't miss their fresh and enthusiastic renditions of these tales. The stories may have been first told once upon a somewhenever, somewherever, a very long time ago… but be assured , these tales will stay with you long after the last word is spoken.
 
 <p style="text-align: center;"><a href=""><img width="50%" src="images/tis-vf--giant.png" /></a></p>
 
@@ -76,13 +104,13 @@ Don’t miss their fresh and enthusiastic renditions of these tales. The stories
 Date / time: Wednesday 26 July 2023, 7:30 pm - 9:30 pm  
 Ventnor Library  
 
-GREEN is life itself. From the smallest flower to the oldest oak; flashing eyes of love to the dark plots of jealous envy; ‘The force through the green fuse drives the flower...’. And don’t forget lizards, parrots and dragons with their GREEN Scales and Tails. Come to hear GREEN stories of every description as told by the Island Storytellers.
+GREEN is life itself. From the smallest flower to the oldest oak; flashing eyes of love to the dark plots of jealous envy; ‘The force through the green fuse drives the flower...'. And don't forget lizards, parrots and dragons with their GREEN Scales and Tails. Come to hear GREEN stories of every description as told by the Island Storytellers.
 
 The simple art of storytelling has been with us forever, enjoyed by young and old alike, in all parts of the world. Come join us to hear a mix of tales linked together by the colour green, and brought to you by The Island Storytellers, a group of people who meet monthly, keen to keep alive the age old art of oral storytelling and share the pleasure of listening and telling.
 
 This evening of tales will be great for adults and older children. A cosy atmosphere with (green!) refreshments in the break.
 
-*Storytelling as living oral culture. Tales for all ages, spoken not read. Because stories aren’t (just) for children.*
+*Storytelling as living oral culture. Tales for all ages, spoken not read. Because stories aren't (just) for children.*
 
 <hr/>
 
@@ -94,11 +122,11 @@ Assemble: Ventnor Town Council 1, Salisbury Gardens, Dudley Road
 Tickets: [£6 per child – adults free, Culture /Unlimited Pass 2for1](https://thelittleboxoffice.com/ventnorexchange/book/event/179862)
 
 
-How many odd socks are there in your house? In Sue-the-storyteller’s house there seem to be dozens. She’s on the hunt for some pairs.
+How many odd socks are there in your house? In Sue-the-storyteller's house there seem to be dozens. She's on the hunt for some pairs.
 
 Can you help her find them?
 
-You’ll need sharp eyes and keen ears as there might be some clues in the stories she tells, as you search along the coastal paths for the missing socks.
+You'll need sharp eyes and keen ears as there might be some clues in the stories she tells, as you search along the coastal paths for the missing socks.
 
 If you succeed in finding all the socks, you will be a sockdologer – an outstanding person!
 
