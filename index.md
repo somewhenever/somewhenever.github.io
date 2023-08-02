@@ -2,13 +2,24 @@
 
 __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
+
 <br/><br/>
 
 <div style="text-align: center;">
-<h3>DANIEL MORDEN — DARK TALES OF THE WOODS — CANCELLED DUE TO ILLNESS. REPLACEMENT SHOW (SAME TIME, SAME PLACE): XANTHE GRESHAM_KNIGHT — BAG OF WONDERS</h3>
+<h3>NEXT OUTING — SOMEWHEN STORY TENT AT CHALE SHOW, SATURDAY AND SUNDAY, AUGUST 5TH-6TH, 2023, CHALE SHOWGROUND, ISLE OF WIGHT</h3>
+
+<p>We're honoured to be able to bring some of our tales to one of the largest events on the Island calendar this weekend, at Chale Show. We've even got a tent! For more details, see the <a href="https://thechaleshow.co.uk/storytent/">Chale Show website</a>.</p>
 </div>
 
-__NOW BOOKING — SOMEWHEN EVENTS AT VENTNOR FRINGE__
+<div style="text-align: center;"><img src="images/Somewhenever-Story-tent-logo-small-copy.jpg" width="40%" style="border:10px" /><br/>
+</br/>
+<h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 10AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
+<br/></br/>
+<img src="images/Somewhenever-story-tent-timetable-2023.jpg" width="60%" style="border:10px" /></div>
+
+<br/><br/>
+
+__OVER FOR ANOTHR YEAR — SOMEWHEN EVENTS AT VENTNOR FRINGE__
 
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
