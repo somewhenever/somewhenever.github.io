@@ -2,7 +2,7 @@
 
 __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
-<br/><br/>
+<br/>
 
 <div style="text-align: center;">
 <h3>NEXT OUTING — SOMEWHEN STORY TENT AT CHALE SHOW, SATURDAY AND SUNDAY, AUGUST 5TH-6TH, 2023, CHALE SHOWGROUND, ISLE OF WIGHT</h3>
@@ -14,7 +14,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/>
 <h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 10AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
-<br/></br/>
+<br/><br/>
 <img src="images/Somewhenever-story-tent-timetable-2023.jpg" width="60%" style="border:10px" /></div>
 
 <br/><br/>
@@ -23,31 +23,31 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <p>Giants, green dragons, wonder tales, sock hunts…. The Island Storyteller's Somewhen team  brought a myriad of stories to Ventnor Fringe last week in a multitude of events.  Internationally renowned storyteller Xanthe Gresham Knight enthralled the audience with her tales chosen by the audience; Xanthe had stepped in at the last moment as well-known storyteller, Daniel Morden, had been taken ill. Sue Bailey said " It was great that Xanthe was able to come. We were looking for someone of a similar calibre to Daniel, and Xanthe pulled the stops out to fill the void with mesmerising stories and accordion playing".</p>
 
-<div><img src="images/xanthe-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/xanthe-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
 
 <p>Tony ‘Monty' Hirst hot-footed from a pop-up Somewhen Storytelling set at Calbourn Watermill's *Arthurian Weekend* to open up the feast of Somewhen storytelling events at the Fringe with another outing of 'Unforeseen Consequences', his set of slightly nonsensical tales where the outcome is not always expected! He said "The fringe is a fantastic opportunity for bringing traditional stories to new audiences. Storytelling was the standup of its day, and many of the tales work as well today as ever they did."</p>
 
-<div><img src="images/sw_banner_watermill.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/sw_banner_watermill.jpg" width="60%" style="border:10px" /></div>
 
 <p>On the Wednesday midway through Fringe week, seven regulars people, from the Island Storytellers' monthly story round, took to the floor to tell tales linked by the word green.  Sue continued  "I loved the diversity of voices and styles at our ‘Green' storytelling at Ventnor library. It really showed that stories come in many forms whether they are based on anecdotes, traditional folk tales  or even on impossibly probable animal stories.  We rocked with laughter when local storyteller Sue Clark related  her story of how their caravanning group  converted a car into a green dragon."</p>
 
-<div><img src="images/sue-clarke-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/sue-clarke-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
 
 <p>Stories continued on the final Friday, when <a href="https://tistales.org.uk/">TisTales</a>, a trio of local storytellers, regaled a packed audience at Ventnor Arts Club with tales of giants.  Holly Medland's tales of the origin of Britain gave a possible insight into the assertive nature of women on these islands today, as the heroine, Albina, encouraged the daughters of a  Syrian king to rise up against the mundane and devaluing requirements of being  obedient and subservient wives.</p>
 
-<div><img src="images/holly-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/holly-vf-2023-small.jpg" width="60%" style="border:10px" /></div>
 
 <p>Welsh hero, Bendigeidfran ("Bran the Blessed"), Irish giant, Fionn mac Cumhail and Norse god, Thor, also featured in this excellent hour of stories.</p>
 
-<div><img src="images/sw_banner_arts_club_vf_2023.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/sw_banner_arts_club_vf_2023.jpg" width="60%" style="border:10px" /></div>
 
 <p>On Saturday and Sunday Sue Bailey led one of her infamous and highly engaging storywalks. "One sock – a riddle  and story filled sock hunt, is such fun"  said Sue.  "The children are very sharp eyed and always manage to follow the clues and find all my missing socks.  I love the way they work  together and even though they are keen to be the finders,  they make sure all the children taking part have a chance to find something".</p>
 
-<div><img src="images/sue-socks-walk-vf-2023.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/sue-socks-walk-vf-2023.jpg" width="60%" style="border:10px" /></div>
 
 <p>As wll as ticketed performances, stories were also told as part of several free fringe sets in the Fringe Square.</p>
 
-<div><img src="images/sw_banner_fringe_sq_vf_2023.jpg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><img src="images/sw_banner_fringe_sq_vf_2023.jpg" width="60%" style="border:10px" /></div>
 
 <p>Sue Bailey continued "It has been great being part of Ventnor Fringe.  We are very grateful to the organisers  for providing a platform for all the performances,  whether they be local, national or international.  Our storytelling events this week have been part of a year long lottery supported project called ‘Somewhen Storytelling'.</p>
 
