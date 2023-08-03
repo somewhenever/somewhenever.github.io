@@ -51,6 +51,8 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <p>Sue Bailey continued "It has been great being part of Ventnor Fringe.  We are very grateful to the organisers for providing a platform for all the performances,  whether they be local, national or international. Our storytelling events this week have been part of a year long lottery supported project called ‘Somewhen Storytelling'.</p>
 
+## Previous Events
+
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
 <div style="text-align: center;">
@@ -140,9 +142,6 @@ Fringe Square, Ventnor
 FREE / Free Fringe
 
 <hr/> 
-
-
-## Previous Events
 
 The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, with plenty for children too, on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
 
