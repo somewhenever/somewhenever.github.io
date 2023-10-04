@@ -5,26 +5,28 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <br/>
 
 <div style="text-align: center;">
-<h3>NEXT EVENT — LISA SCHNEIDAU AT IW LITERARY FESTIVAL</h3>
-<p>Tales and the land often go together, and Lisa’s tales are often steeped in the landscape and acutely aware of the local ecology. So what are you waiting for? Tickets are available from the Isle of Literary Festival website now...</p>
+<h3>NEXT EVENT — LISA SCHNEIDAU AT IW LITERARY FESTIVAL</h3></div>
 
-<p>Lisa Schneidau, Tangle of the Commons, Saturday, October 7th, 2023, 3.20-4.20pm, Isle of Wight Literary Festival, [tickets £10, available now](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/).</p>
+Tales and the land often go together, and Lisa’s tales are often steeped in the landscape and acutely aware of the local ecology. So what are you waiting for? [Tickets are available from the Isle of Literary Festival website now...](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/)
+
+Lisa Schneidau, Tangle of the Commons, Saturday, October 7th, 2023, 3.20-4.20pm, Isle of Wight Literary Festival, [tickets £10, available now](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/).
 
 <img src="images/lisa-schneidau_iwlf.png" width="40%" style="border:10px" /><br/>
 
-<p>As befits a show at the Isle of Wight Literary Festival, we’re assured there will be book merch in the form of Lisa’s three collections of folk tales: Botanical Folk Tales of Britain and Ireland, Woodland Folk Tales of Britain and Ireland, River Folk Tales of Britain and Ireland, all published by History Press. But this won’t be your typical book tour reading. It’ll be be a proper storytelling show!</p>
-</div>
+As befits a show at the Isle of Wight Literary Festival, we’re assured there will be book merch in the form of Lisa’s three collections of folk tales: Botanical Folk Tales of Britain and Ireland, Woodland Folk Tales of Britain and Ireland, River Folk Tales of Britain and Ireland, all published by History Press. But this won’t be your typical book tour reading. It’ll be be a proper storytelling show!
+
+## Previous Events
 
 <div style="text-align: center;">
 <h3>PREVIOUSLY — SOMEWHEN STORY TENT AT CHALE SHOW, SATURDAY AND SUNDAY, AUGUST 5TH-6TH, 2023, CHALE SHOWGROUND, ISLE OF WIGHT</h3>
 
 <p>Although the first day of the show was cancelled due to high winds, we were honoured to be able to bring some of our tales to one of the largest events on the Island calendar at Chale Show. We even had <a href="https://thechaleshow.co.uk/storytent/">our own tent</a>.</p>
 
+<div style="text-align: center;"><img src="images/Somewhenever-Story-tent-logo-small-copy.jpg" width="40%" style="border:10px" /><br/>
+
 <img src="images/somewhen-chale-tent-small.png" width="40%" style="border:10px" />
 <img src="images/somewhen-chale-stage-small.png" width="40%" style="border:10px" /><br/>
 </div>
-
-<div style="text-align: center;"><img src="images/Somewhenever-Story-tent-logo-small-copy.jpg" width="40%" style="border:10px" /><br/>
 
 <br/>
 <h3>CHALE SHOW STORY TENT — 20 MIINUTES OF TALES TOLD, ON THE HOUR, EVERY HOUR, 11AM-4PM INCLUSIVE. TALES FOR ALL AGES, FOLLOWED BY FAMILY FRIENDLY ACTIVITIES ON THE HALF HOUR...</h3>
@@ -64,8 +66,6 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <div style="text-align: center;"><img src="images/sw_banner_fringe_sq_vf_2023.jpg" width="60%" style="border:10px" /></div>
 
 <p>Sue Bailey continued "It has been great being part of Ventnor Fringe.  We are very grateful to the organisers for providing a platform for all the performances,  whether they be local, national or international. Our storytelling events this week have been part of a year long lottery supported project called ‘Somewhen Storytelling'.</p>
-
-## Previous Events
 
 <div style="text-align: center;"><img src="images/xanthe-vf23-flyer.jpeg" width="40%" style="border:10px" /> <img src="images/sw-vf.jpeg" width="40%" style="border:10px" /></div>
 
