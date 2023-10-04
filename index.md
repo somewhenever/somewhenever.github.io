@@ -157,15 +157,6 @@ FREE / Free Fringe
 
 <hr/> 
 
-The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, with plenty for children too, on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
-
-<br/><br/>
-
-<div style="text-align: center;"><strong><a href="./somewhen-festival-2023"> &gt;&gt;&gt; Somewhen Festival, 2023</a></strong></div>
-
-<div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Somewhen_poster_2023_FINAL_v2_compressed.png" /></a></div>
-
-<hr/>
 
 <div style="text-align: center;"><h3>TONY "MONTY" HIRST — UNFORESEEN CONSEQUENCES</h3></div>
 
@@ -184,6 +175,17 @@ What could possibly go wrong...?
 <p style="text-align: center;"><a href=""><img width="50%" src="images/month-vf--unforeseen.png" /></a></p>
 
 <hr/>
+
+The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Storytelling Festival, 2023*](./somewhen-festival-2023), a two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, with plenty for children too, on the first weekend of June (June 3rd-4th, 2023) at the [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet.
+
+<br/><br/>
+
+<div style="text-align: center;"><strong><a href="./somewhen-festival-2023"> &gt;&gt;&gt; Somewhen Festival, 2023</a></strong></div>
+
+<div style="text-align: center;"><a href="./somewhen-festival-2023"><img width="50%" src="images/Somewhen_poster_2023_FINAL_v2_compressed.png" /></a></div>
+
+<hr/>
+
 
 *Somewhen Storytelling* is supported by an Arts Council National Lottery Project Grant.
 
