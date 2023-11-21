@@ -5,19 +5,43 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <br/>
 
 <div style="text-align: center;">
-<h3>NEXT EVENT — LISA SCHNEIDAU AT IW LITERARY FESTIVAL</h3></div>
+<h3 id="ventnor-christmas-2023">COMING NEXT - TWELVE DAYS OF CHRISTMAS / SEASONAL TALES, VENTNOR, AND 'TIS TALES AT BOOJUM & SNARK</h3>
 
-Tales and the land often go together, and Lisa’s tales are often steeped in the landscape and acutely aware of the local ecology. So what are you waiting for? [Tickets are available from the Isle of Literary Festival website now...](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/)
+Many people are familiar with 'The Twelve days of Christmas', a cumulative song in which more and more gifts are given by 'my true love' each time you go round the song, and the basis for a feast of storytelling in Ventnor this Christmas time.
 
-Lisa Schneidau, Tangle of the Commons, Saturday, October 7th, 2023, 3.20-4.20pm, Isle of Wight Literary Festival, [tickets £10, available now](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/).
+![](images/mixed_christmas_items.png) 
 
-<img src="images/lisa-schneidau_iwlf.png" width="40%" style="border:10px" /><br/>
+If you count up the individual gifts in the song, it comes to a grand total of 78 items. We may not manage that number of tales over the Christmas season, but that is the number of figures and animals made by members of the Island Storytellers to hide in upwards of fifty shop and business windows around Ventnor  as part of a [Ventnor Carnival Association](https://www.ventnorcarnival.org/)'s Christmas window spotting competition.
 
-As befits a show at the Isle of Wight Literary Festival, we’re assured there will be book merch in the form of Lisa’s three collections of folk tales: Botanical Folk Tales of Britain and Ireland, Woodland Folk Tales of Britain and Ireland, River Folk Tales of Britain and Ireland, all published by History Press. But this won’t be your typical book tour reading. It’ll be be a proper storytelling show!
+ ![](images/christmas_item.png)
+
+All the items will be in place by the 9th December, ready for the competition which runs from 9th-16th December. As part of the Ventnor celebrations, the Island Storytellers will be presenting two performances of stories connected to characters in the song on __Saturday, December 16th__ prior to the Illuminated Carnival. The first show will be at Ventnor Exchange at 11.30am and the second in St Catherine’s Church Meeting Room at 1.30pm. There will be tales about swans, golden rings, drummers, hens and more. Entry is by donation on the door, of food, or cash, or Christmas supplies, to [Ventnor Community Foodbank](https://www.ventnortowncouncil.gov.uk/directory/ventnor-community-foodbank/).
+
+![](images/more_christmas_items.png)
+
+We're also hoping to bring some pop up storytelling to some of the shops involved in the window spotting competition. We won’t say where, or when but it will be, somewhen that day, somewhere, so if you're shopping in Ventnor that day, be prepared to be regaled with a tale or two.
+
+*The window spotting competition is just one of many things being co-ordinated by Ventnor Carnival Association that are taking place in Ventnor on 16th December; there'll also be a craft fair, music, Santa's grotto, and the lantern parade, with the day's events culminating in a carol concert in Ventnor Park.*
+
+The following day, on __Sunday, December 17th, 2023__, from 7pm, our very own storytelling trio that is ['Tis Tales](https://tistales.org.uk/) will be joining the Stoutmas Festival at [Boojum & Snark](https://www.boojumandsnark.co.uk/events/) in Sandown, with a set of even more seasonal tales.
+
+We'll hopefully see you there, somewhen, somewhere...
+</div>
 
 ## Previous Events
 
 <div style="text-align: center;">
+
+<h3>PREVIOUSLY — LISA SCHNEIDAU AT IW LITERARY FESTIVAL, 2023</h3></div>
+
+Tales and the land often go together, and Lisa’s tales are often steeped in the landscape and acutely aware of the local ecology.
+
+Lisa's show, *Tangle of the Commons*, was performed on Saturday, October 7th, 2023, 3.20-4.20pm, Isle of Wight Literary Festival, (tickets priced £10). <!-- [](https://isleofwightliteraryfestival.com/event/the-tangle-of-the-commons/).-->
+
+<img src="images/lisa-schneidau_iwlf.png" width="40%" style="border:10px" /><br/>
+
+As befitted a show at the Isle of Wight Literary Festival, book merch was available in the form of Lisa’s three collections of folk tales: Botanical Folk Tales of Britain and Ireland, Woodland Folk Tales of Britain and Ireland, River Folk Tales of Britain and Ireland, all published by History Press. But this wasn’t your typical book tour reading. It was a proper storytelling show!
+
 <h3>PREVIOUSLY — SOMEWHEN STORY TENT AT CHALE SHOW, SATURDAY AND SUNDAY, AUGUST 5TH-6TH, 2023, CHALE SHOWGROUND, ISLE OF WIGHT</h3>
 
 <p>Although the first day of the show was cancelled due to high winds, we were honoured to be able to bring some of our tales to one of the largest events on the Island calendar at Chale Show. We even had <a href="https://thechaleshow.co.uk/storytent/">our own tent</a>.</p>
