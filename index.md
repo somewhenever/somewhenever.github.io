@@ -9,15 +9,15 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 Many people are familiar with 'The Twelve days of Christmas', a cumulative song in which more and more gifts are given by 'my true love' each time you go round the song, and the basis for a feast of storytelling in Ventnor this Christmas time.
 
-![](images/mixed_christmas_items.png) 
+<img src="images/mixed_christmas_items.png" width="40%" style="border:10px" />
 
 If you count up the individual gifts in the song, it comes to a grand total of 78 items. We may not manage that number of tales over the Christmas season, but that is the number of figures and animals made by members of the Island Storytellers to hide in upwards of fifty shop and business windows around Ventnor  as part of a [Ventnor Carnival Association](https://www.ventnorcarnival.org/)'s Christmas window spotting competition.
 
- ![](images/christmas_item.png)
+<img src="images/christmas_item.png" width="40%" style="border:10px" />
 
 All the items will be in place by the 9th December, ready for the competition which runs from 9th-16th December. As part of the Ventnor celebrations, the Island Storytellers will be presenting two performances of stories connected to characters in the song on __Saturday, December 16th__ prior to the Illuminated Carnival. The first show will be at Ventnor Exchange at 11.30am and the second in St Catherine’s Church Meeting Room at 1.30pm. There will be tales about swans, golden rings, drummers, hens and more. Entry is by donation on the door, of food, or cash, or Christmas supplies, to [Ventnor Community Foodbank](https://www.ventnortowncouncil.gov.uk/directory/ventnor-community-foodbank/).
 
-![](images/more_christmas_items.png)
+<img src="images/more_christmas_items.png" width="40%" style="border:10px" />
 
 We're also hoping to bring some pop up storytelling to some of the shops involved in the window spotting competition. We won’t say where, or when but it will be, somewhen that day, somewhere, so if you're shopping in Ventnor that day, be prepared to be regaled with a tale or two.
 
@@ -26,7 +26,6 @@ We're also hoping to bring some pop up storytelling to some of the shops involve
 The following day, on __Sunday, December 17th, 2023__, from 7pm, our very own storytelling trio that is ['Tis Tales](https://tistales.org.uk/) will be joining the Stoutmas Festival at [Boojum & Snark](https://www.boojumandsnark.co.uk/events/) in Sandown, with a set of even more seasonal tales.
 
 We'll hopefully see you there, somewhen, somewhere...
-</div>
 
 ## Previous Events
 
