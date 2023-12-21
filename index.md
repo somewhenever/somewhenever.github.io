@@ -5,7 +5,25 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <br/>
 
 <div style="text-align: center;">
-<h3 id="ventnor-christmas-2023">COMING NEXT - TWELVE DAYS OF CHRISTMAS / SEASONAL TALES, VENTNOR, AND 'TIS TALES AT BOOJUM & SNARK</h3></div>
+
+<h3 id="slw-nsw-2024">COMING NEXT - SARAH LIISA WILKINSON / STRANGE GIRLS. BEAUTIFUL MONSTERS.</h3></div>
+
+A girl enters the woods clutching a skull with burning eyesAnother tumbles out of a barrel and falls in loveA third erupts into the world riding a goatOne more opens a forbidden door...Sarah Liisa Wilkinson invites you to meet some very strange girls and some very beguiling monsters from the fairytale forest. This is a world of Baba Yagas and bloodstained dolls, wide-eyed girls and spoon wielding sisters, lovestruck trolls, and lovers who hide monstrous secrets behind their charms.Dark, funny and enchanted – these are stories with iron teeth.
+
+Venue: Cowes Combined Services & Social Club, Cowes, PO31 7AJ
+Date: Tue 30th January 2024
+Running time: 75 minutes
+Tickets: [£10 (incl. booking fee)](https://www.ticketsource.co.uk/somewhen-storytelling/somewhen-presents-strange-girls-beautiful-monsters-by-sarah-liisa-wilkinson/e-bkmgrb)
+
+<div style="text-align: center;"><img src="images/slw_jan24-min.png" width="60%" style="border:10px" /></div>
+
+Sarah Liisa Wilkinson is a storyteller who delights audiences with her always engaging, energetic and playful performance style. She has a particular interest in the folktales and myths of Finland and other Nordic lands, but loves to tell tales from all around the world. She has trained as a performer with Philippe Gaulier, and as a storyteller with Nell Phoenix and Ben Haggarty, and has told stories to people in the UK and internationally in theatres, clubs, pubs, festivals, churches, front rooms and all-night sleepovers. She is a member of The Embers Collective, a storytelling and music group in London.
+
+## Previous Events
+
+<div style="text-align: center;">
+
+<h3 id="ventnor-christmas-2023">PREVIOUSLY - TWELVE DAYS OF CHRISTMAS / SEASONAL TALES, VENTNOR, AND 'TIS TALES AT BOOJUM & SNARK</h3></div>
 
 Many people are familiar with 'The Twelve days of Christmas', a cumulative song in which more and more gifts are given by 'my true love' each time you go round the song, and the basis for a feast of storytelling in Ventnor this Christmas time.
 
@@ -27,11 +45,7 @@ The following day, on __Sunday, December 17th, 2023__, from 7pm, our very own st
 
 We'll hopefully see you there, somewhen, somewhere...
 
-## Previous Events
-
-<div style="text-align: center;">
-
-<h3>PREVIOUSLY — LISA SCHNEIDAU AT IW LITERARY FESTIVAL, 2023</h3></div>
+<h3>LISA SCHNEIDAU AT IW LITERARY FESTIVAL, 2023</h3></div>
 
 Tales and the land often go together, and Lisa’s tales are often steeped in the landscape and acutely aware of the local ecology.
 
