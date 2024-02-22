@@ -4,6 +4,47 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/>
 
+
+
+<div style="text-align: center;">
+
+<h3 id="cm-nsciw-2024">COMING NEXT - CLAIRE MURPHY / UniVerse.</h3></div>
+
+A mathematician finds a gift from a god.
+Blacksmiths beat out the music of the spheres.
+And why are there turtles everywhere?
+
+Where does myth meet science? Is it only in the middle of the night when we half wake and half sleep? In this timeless place of wonder and insight, time stretches and a fissure opens that builds a dream bridge between many worlds…
+
+Venue: Quay Arts, Newport
+Date: Tue 5th March 2024
+Time: Cafe / Bar open from 18:00, performance from 19:00
+Tickets: [£10 + £1.75 booking fee](https://uk.patronbase.com/_QuayArts/Productions/3EUR/Performances)
+
+<div style="text-align: center;"><img src="images/murphy-universe.jpeg" width="60%" style="border:10px" /></div>
+
+[Clare Murphy](https://claremurphy.org/),internationally renowned storyteller, performer, teacher, salon curator, artist in residence.  A woman of many skills, Born into a family of performers and poets, her storytelling career began in 2006. Since then she has told all kinds of stories from ancient myths to modern quantum physics, playing world stages from NASA Jet Propulsion Laboratory Pasadena to the National Theatre London.  Her storytelling work goes beyond performance into the realm of teaching, training and consulting worldwide on a myriad of projects.
+
+<h3 id="cm-nsciw-2024">Storytelling For Science
+Educators Workshop</h3></div>
+
+Clare Murphy, a highly respected international storyteller will be leading a storytelling workshop from 9.00-5pm on Wednesday 6th March at Quay Arts, Newport. It will focus on developing new and different ways to communicate.
+
+Clare says: Whether you are a climate change scientist, a paramedic, a UN Policy maker, an academic, you need to be able to talk fluently about your work and make an impact on your audience.  
+
+Storytelling skills will help you and your team improve your impact and message, no matter what sector you work in.
+
+Clare trains teams and individuals worldwide on storytelling skills.  These skills include managing nerves, preparing presentations, connecting to audience, turning experience into story, story editing, adaptive story formats.  Clare also develops confidence, presence and vocal range, while all the time developing the individual skillset of each person.
+
+The evening before, (Tuesday 5th March at 7pm) Clare will be telling "UniVerse" in the cafe at Quay Arts.  Clare highly recommends workshop participants attend the storytelling performance, as it will be referenced during the workshop.
+
+The cost per person for the workshop should be £100 but this is subsidised by Arts Council funding so the cost to each participant will be £45. This includes a ticket for UniVerse.
+
+This event is being organised by the Island Storytellers who received a grant to develop storytelling on the Isle of Wight under the banner of Somewhen Storytelling. Please email islandstorytellers@tistales.org.uk to reserve a space.
+Note, there are only 16 spaces on this course which will be allocated on a first come first serve basis.
+
+## Previous Events
+
 <div style="text-align: center;">
 
 <h3 id="slw-nsw-2024">COMING NEXT - SARAH LIISA WILKINSON / STRANGE GIRLS. BEAUTIFUL MONSTERS.</h3></div>
@@ -18,10 +59,6 @@ Tickets: [£10 (incl. booking fee)](https://www.ticketsource.co.uk/somewhen-stor
 <div style="text-align: center;"><img src="images/slw_jan24-min.png" width="60%" style="border:10px" /></div>
 
 Sarah Liisa Wilkinson is a storyteller who delights audiences with her always engaging, energetic and playful performance style. She has a particular interest in the folktales and myths of Finland and other Nordic lands, but loves to tell tales from all around the world. She has trained as a performer with Philippe Gaulier, and as a storyteller with Nell Phoenix and Ben Haggarty, and has told stories to people in the UK and internationally in theatres, clubs, pubs, festivals, churches, front rooms and all-night sleepovers. She is a member of The Embers Collective, a storytelling and music group in London.
-
-## Previous Events
-
-<div style="text-align: center;">
 
 <h3 id="ventnor-christmas-2023">PREVIOUSLY - TWELVE DAYS OF CHRISTMAS / SEASONAL TALES, VENTNOR, AND 'TIS TALES AT BOOJUM & SNARK</h3></div>
 
