@@ -25,6 +25,7 @@ Tickets: [£10 + £1.75 booking fee](https://uk.patronbase.com/_QuayArts/Product
 
 [Clare Murphy](https://claremurphy.org/),internationally renowned storyteller, performer, teacher, salon curator, artist in residence.  A woman of many skills, Born into a family of performers and poets, her storytelling career began in 2006. Since then she has told all kinds of stories from ancient myths to modern quantum physics, playing world stages from NASA Jet Propulsion Laboratory Pasadena to the National Theatre London.  Her storytelling work goes beyond performance into the realm of teaching, training and consulting worldwide on a myriad of projects.
 
+<div style="text-align: center;">
 <h3 id="cm-nsciw-2024">Storytelling For Science
 Educators Workshop</h3></div>
 
