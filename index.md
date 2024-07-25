@@ -1,4 +1,8 @@
-*Somewhenever* is a year long series of storytelling events taking place somewhen throughout 2023 on the beautiful island of the Isle of Wight, just off the south coast of England.
+"Somewhenever" was originally a year long Arts Council/National Lottery funded series of storytelling events and activities taking place somewhen throughout 2023 somewhere and everywhere on the beautiful island of the Isle of Wight, just off the south coast of England.
+
+As we continuue to build storytelling audiences and practice on the Island with regular storytelling events under more general banners, we're hoping to brimg the "Somewhen" umbrella (hmm... maybe we should get some umbrella merch?!) back in a more formal way sometime soon...
+
+For now, the best best to keep up to date with our stroytelling activities is on the ['Tis Tales website](https://tistales.org.uk) — `https://tistales.org.uk`
 
 __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
