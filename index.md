@@ -2,7 +2,7 @@
 
 As we continuue to build storytelling audiences and practice on the Island with regular storytelling events under more general banners, we're hoping to bring the "Somewhen" umbrella (hmm... maybe we should get some umbrella merch?!) back in a more formal way sometime soon...
 
-For now, the best best to keep up to date with our stroytelling activities is on the ['Tis Tales website](https://tistales.org.uk) — `https://tistales.org.uk`
+For now, the best best to keep up to date with our storytelling activities is on the ['Tis Tales website](https://tistales.org.uk) — `https://tistales.org.uk`
 
 __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
