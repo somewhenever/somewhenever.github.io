@@ -31,7 +31,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 <h4 id="slw-snh-2024">Stories'n'Harp — Tales of Britain & Ireland</h4>
 <div style="text-align: center;"><img src="images/stories-n-harp-vf.png" width="60%" style="border:10px" /></div>
 
-<h4 id="slw-hm-2024">Holly Medland — Mioddle Age Crisis</h4>
+<h4 id="slw-hm-2024">Holly Medland — Middle Age Crisis</h4>
 <div style="text-align: center;"><img src="images/vf24-holly-middle-age-crisis.jpeg" width="60%" style="border:10px" /></div>
 
 <h4 id="slw-nvf-2024">Island Storytellers — Seven Ages</h4><
