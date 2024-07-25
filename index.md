@@ -12,7 +12,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 
 
-<h3 id="slw-vf-2024">Nell Pheonix — Little Red Riding Hood and Other Lost Girls</h3>
+<h3 id="slw-vf-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls</h3>
 
 <div style="text-align: center;"><img src="images/nell-choyd24.jpeg" width="60%" style="border:10px" /></div>
 
