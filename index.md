@@ -4,11 +4,45 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/>
 
+<div style="text-align: center;">
 
+
+
+<h3 id="slw-vf-2024">Nell Pheonix — Little Red Riding Hood and Other Lost Girls</h3>
+
+<div style="text-align: center;"><img src="images/nell-choyd24.jpeg" width="60%" style="border:10px" /></div>
+
+
+<h3>Ventnor Fringe 2024 — Storytelling Festival within a Fringe</h3>
+
+<div style="text-align: center;"><img src="images/vf24-somewhen.jpeg" width="60%" style="border:10px" /></div>
+
+<h4 id="slw-vf-2024">Sara Liisa Wilkinson — CANCELLED — The Girl and the Snake Witch</h4>
+
+<div style="text-align: center;"><img src="images/vf-slw-24.jpeg" width="60%" style="border:10px" /></div>
+
+<h4 id="tt-vf-2024">'Tis Tales</h4>
+<div style="text-align: center;"><img src="images/vf24-tis-elemental.jpeg" width="60%" style="border:10px" /></div>
+
+<h4 id="slw-snh-2024">Stories'n'Harp — Tales of Britain & Ireland</h4>
+<div style="text-align: center;"><img src="images/stories-n-harp-vf.png" width="60%" style="border:10px" /></div>
+
+<h4 id="slw-hm-2024">Holly Medland — Mioddle Age Crisis</h4>
+<div style="text-align: center;"><img src="images/vf24-holly-middle-age-crisis.jpeg" width="60%" style="border:10px" /></div>
+
+<h4 id="slw-nvf-2024">Island Storytellers — Seven Ages</h4><
+<div style="text-align: center;"><img src="images/vf-seven-ages-library.jpeg" width="60%" style="border:10px" /></div>
+
+<h4 id="slw-nvf-2024">Sue Bailey — </h4>
+
+</div>
+
+
+## Previous Events
 
 <div style="text-align: center;">
 
-<h3 id="cm-nsciw-2024">COMING NEXT - CLAIRE MURPHY / UniVerse.</h3></div>
+<h3 id="cm-nsciw-2024">CLAIRE MURPHY / UniVerse.</h3></div>
 
 A mathematician finds a gift from a god.
 Blacksmiths beat out the music of the spheres.
@@ -41,14 +75,11 @@ The evening before, (Tuesday 5th March at 7pm) Clare will be telling "UniVerse" 
 
 The cost per person for the workshop should be £100 but this is subsidised by Arts Council funding so the cost to each participant will be £45. This includes a ticket for UniVerse.
 
-This event is being organised by the Island Storytellers who received a grant to develop storytelling on the Isle of Wight under the banner of Somewhen Storytelling. Please email islandstorytellers@tistales.org.uk to reserve a space.
-Note, there are only 16 spaces on this course which will be allocated on a first come first serve basis.
+This event was organised by the Island Storytellers who received a grant to develop storytelling on the Isle of Wight under the banner of Somewhen Storytelling. Please email islandstorytellers@tistales.org.uk to reserve a space.
 
-## Previous Events
+Note, there were only 16 spaces on this course which were allocated on a first come first serve basis.
 
-<div style="text-align: center;">
-
-<h3 id="slw-nsw-2024">COMING NEXT - SARAH LIISA WILKINSON / STRANGE GIRLS. BEAUTIFUL MONSTERS.</h3></div>
+<h3 id="slw-nsw-2024">SARAH LIISA WILKINSON / STRANGE GIRLS. BEAUTIFUL MONSTERS.</h3></div>
 
 A girl enters the woods clutching a skull with burning eyesAnother tumbles out of a barrel and falls in loveA third erupts into the world riding a goatOne more opens a forbidden door...Sarah Liisa Wilkinson invites you to meet some very strange girls and some very beguiling monsters from the fairytale forest. This is a world of Baba Yagas and bloodstained dolls, wide-eyed girls and spoon wielding sisters, lovestruck trolls, and lovers who hide monstrous secrets behind their charms.Dark, funny and enchanted – these are stories with iron teeth.
 
