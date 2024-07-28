@@ -23,7 +23,7 @@ Tickets: <a href="https://www.ticketsource.co.uk/somewhen-storytelling">availabl
 
 For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun August 3rd/4th, 2024.
 
-More details on the <a href="https://thechaleshow.co.uk/storytent/">Chale Show website</a>.
+*Event shcedule to follow*
 
 <div style="text-align: center;"><img src="images/somewhenever-story-tent-chale24.jpg" width="60%" style="border:10px" /></div>
 
