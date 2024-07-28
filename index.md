@@ -12,15 +12,14 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <h2>***UPCOMING****</h2>
 
-<h3 id="slw-vf-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls</h3>
+<h3 id="slw-vf-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls — Auguest 3rd, 7pm — Yarmouth</h3>
 
 <div style="text-align: center;"><img src="images/nell-choyd24.jpeg" width="60%" style="border:10px" /></div>
 
 
+<h3 id="slw-vf-2024">Somewhenever Storytelling Tent — Chale Show — August 3rd/4th 2024, 11-5 — Chale</h3>
 
-<h3 id="slw-vf-2024">Somewhenever Storytelling Tent, Chale Show</h3>
-
-For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun AUgusst 3rd/4th, 2024.
+For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun August 3rd/4th, 2024.
 
 More details on the <a href="https://thechaleshow.co.uk/storytent/">Chale Show website</a>.
 
