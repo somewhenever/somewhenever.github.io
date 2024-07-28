@@ -10,12 +10,25 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <div style="text-align: center;">
 
-
+<h2>***UPCOMING****</h2>
 
 <h3 id="slw-vf-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls</h3>
 
 <div style="text-align: center;"><img src="images/nell-choyd24.jpeg" width="60%" style="border:10px" /></div>
 
+
+
+<h3 id="slw-vf-2024">Somewhenever Storytelling Tent, Chale Show</h3>
+
+For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun AUgusst 3rd/4th, 2024.
+
+More details on the <a href="https://thechaleshow.co.uk/storytent/">Chale Show website</a>.
+
+<div style="text-align: center;"><img src="images/somewhenever-story-tent-chale24.jpg" width="60%" style="border:10px" /></div>
+
+## Previous Events
+
+<div style="text-align: center;">
 
 <h3>Ventnor Fringe 2024 — Storytelling Festival within a Fringe</h3>
 
@@ -42,9 +55,6 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 </div>
 
 
-## Previous Events
-
-<div style="text-align: center;">
 
 <h3 id="cm-nsciw-2024">CLAIRE MURPHY / UniVerse.</h3></div>
 
