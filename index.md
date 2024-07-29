@@ -57,8 +57,6 @@ Here is the provided schedule formatted into a Markdown table:
 | 3:30  | Island Tales                                   | 8+       | Monty Hirst   |
 | 4:00  | Chillout tales                                 | All      | Anyone        |
 
-<div style="text-align: center;"><img src="images/somewhenever-story-tent-chale24.jpg" width="60%" style="border:10px" /></div>
-
 ## Previous Events
 
 <div style="text-align: center;">
