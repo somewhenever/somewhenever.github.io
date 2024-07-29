@@ -1,6 +1,6 @@
 "Somewhenever" was originally a year long Arts Council/National Lottery funded series of storytelling events and activities taking place somewhen throughout 2023 somewhere and everywhere on the beautiful island of the Isle of Wight, just off the south coast of England.
 
-As we continuue to build storytelling audiences and practice on the Island with regular storytelling events under more general banners, we're hoping to bring the "Somewhen" umbrella (hmm... maybe we should get some umbrella merch?!) back in a more formal way sometime soon...
+As we continue to build storytelling audiences and practice on the Island with regular storytelling events under more general banners, we're hoping to bring the "Somewhen" umbrella (hmm... maybe we should get some umbrella merch?!) back in a more formal way sometime soon...
 
 For now, the best best to keep up to date with our storytelling activities is on the ['Tis Tales website](https://tistales.org.uk) — `https://tistales.org.uk`
 
@@ -23,7 +23,39 @@ Tickets: <a href="https://www.ticketsource.co.uk/somewhen-storytelling">availabl
 
 For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun August 3rd/4th, 2024.
 
-*Event shcedule to follow*
+Here is the provided schedule formatted into a Markdown table:
+
+### Saturday 3rd August ’24 11-4pm
+
+| Time  | Storytelling/Activity                          | Aimed at | Led by        |
+|-------|------------------------------------------------|----------|---------------|
+| 11:00 | Opening tales - Porridge and pots              | All      | Sue Bailey    |
+| 11:30 | Musical stories                                | 3+       | Izzy Norwood  |
+| 12:00 | Monsters and mayhem                            | 8+       | Nell Phoenix  |
+| 12:30 | Circus skills                                  | All      | Alicia Dent   |
+| 1:00  | Kings, coins and Chickens                      | 5+       | Holly Medland |
+| 1:30  | Tales from the sea                             | 4+       | Sue Clark     |
+| 2:00  | Magical Gardens                                | 4+       | Nell Phoenix  |
+| 2:30  | Musical stories                                | 3+       | Izzy Norwood  |
+| 3:00  | Circus skills (outside the tent) / Myths and magic transformations (inside tent) | All / 7+ | Alicia Dent / Sylvia Clare |
+| 3:30  | Stylish Stories                                | 5+       | Holly Medland |
+| 4:00  | Closing tales – Beds and Byes                  | All      | Sue Bailey    |
+
+### Sunday 4th August ’24 11-4pm
+
+| Time  | Storytelling/Activity                          | Aimed at | Led by        |
+|-------|------------------------------------------------|----------|---------------|
+| 11:00 | Tales from the sea                             | 4+       | Sue Clark     |
+| 11:30 | Jack the lad’s dreaming                        | 8+       | Monty Hirst   |
+| 12:00 | Magical gardens                                | 4+       | Nell Phoenix  |
+| 12:30 | Sing some stories                              | 3+       | Bev Barber    |
+| 1:00  | Stylish stories                                | 5+       | Holly Medland |
+| 1:30  | Porridge and pots                              | 3+       | Sue Bailey    |
+| 2:00  | Monsters and mayhem                            | 7+       | Nell Phoenix  |
+| 2:30  | Sing some stories                              | 3+       | Bev Barber    |
+| 3:00  | King’s chickens and coins                      | 5+       | Holly Medland |
+| 3:30  | Island Tales                                   | 8+       | Monty Hirst   |
+| 4:00  | Chillout tales                                 | All      | Anyone        |
 
 <div style="text-align: center;"><img src="images/somewhenever-story-tent-chale24.jpg" width="60%" style="border:10px" /></div>
 
