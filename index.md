@@ -12,14 +12,29 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <h2>***UPCOMING****</h2>
 
-<h3 id="slw-vf-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls — Auguest 3rd, 7pm — Yarmouth</h3>
+<h3 id="twelve-days-cowes-2024">Twelve Days of Christmas, Cowes, 2024</h3>
+
+<div style="text-align: center;"><img src="images/twelve_days-24_poster.jpeg" width="60%" style="border:10px" /></div>
+
+<h4>Twelve Days of Christmas Window Spotting Competition, Cowes, Decemenr 2024</h4>
+
+Print off the forms here:
+
+<div style="text-align: center;"><img src="images/twelve_days-24_spotter1.jpeg" width="60%" style="border:10px" /></div>
+
+<div style="text-align: center;"><img src="images/twelve_days-24_spotter2.jpeg" width="60%" style="border:10px" /></div>
+
+
+
+## Previous Events
+
+<h3 id="np-choyd-2024">Nell Phoenix — Little Red Riding Hood and Other Lost Girls — Auguest 3rd, 7pm — Yarmouth</h3>
 
 Tickets: <a href="https://www.ticketsource.co.uk/somewhen-storytelling">available here</a>.
 
 <div style="text-align: center;"><img src="images/nell-choyd24.jpeg" width="60%" style="border:10px" /></div>
 
-
-<h3 id="slw-vf-2024">Somewhenever Storytelling Tent — Chale Show — August 3rd/4th 2024, 11-5 — Chale</h3>
+<h3 id="sw-chale-2024">Somewhenever Storytelling Tent — Chale Show — August 3rd/4th 2024, 11-5 — Chale</h3>
 
 For a second year in a row, we're delighted to be hosting the Somewhen Storyelling Tent at Chale Show, Sat/Sun August 3rd/4th, 2024.
 
@@ -57,7 +72,7 @@ Here is the provided schedule formatted into a Markdown table:
 | 3:30  | Island Tales                                   | 8+       | Monty Hirst   |
 | 4:00  | Chillout tales                                 | All      | Anyone        |
 
-## Previous Events
+
 
 <div style="text-align: center;">
 
