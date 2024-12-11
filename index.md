@@ -24,6 +24,11 @@ Print off the forms here:
 
 <div style="text-align: center;"><img src="images/twelve_days-24_spotter2.jpeg" width="60%" style="border:10px" /></div>
 
+Items to spot:
+
+<div style="text-align: center;"><img src="images/12_days_items_1.jpeg" width="60%" style="border:10px" /></div>
+
+<div style="text-align: center;"><img src="images/12_days_items_2.jpeg" width="60%" style="border:10px" /></div>
 
 
 ## Previous Events
