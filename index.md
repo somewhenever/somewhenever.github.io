@@ -20,9 +20,9 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 Print off the forms here:
 
-<div style="text-align: center;"><img src="images/twelve_days-24_spotter1.jpeg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><a href="./images/twelve_days-24_spotter1.jpeg"><img src="images/twelve_days-24_spotter1.jpeg" width="60%" style="border:10px" /></a></div>
 
-<div style="text-align: center;"><img src="images/twelve_days-24_spotter2.jpeg" width="60%" style="border:10px" /></div>
+<div style="text-align: center;"><a href="./images/twelve_days-24_spotter2.jpeg"><img src="images/twelve_days-24_spotter2.jpeg" width="60%" style="border:10px" /></a></div>
 
 Items to spot:
 
