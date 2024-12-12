@@ -16,7 +16,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <div style="text-align: center;"><img src="images/twelve_days-24_poster.jpeg" width="60%" style="border:10px" /></div>
 
-<h4>Twelve Days of Christmas Window Spotting Competition, Cowes, Decemenr 2024</h4>
+<h4>Twelve Days of Christmas Window Spotting Competition, Cowes, December 2024</h4>
 
 Print off the forms here:
 
