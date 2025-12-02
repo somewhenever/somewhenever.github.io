@@ -8,6 +8,9 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/>
 
+<p><a href="https://montystoryteller.org/storyclub_calendar.html">UK Storytelling Clubs / Storytelling events guide</a></p>
+
+<br/>
 <div style="text-align: center;">
 
 <h2>***UPCOMING****</h2>
