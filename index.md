@@ -8,7 +8,7 @@ __*Tellers, not readers.* Spoken, not read. *Not (just) for children.*__
 
 <br/>
 
-<p><a href="https://montystoryteller.org/storyclub_calendar.html">UK Storytelling Clubs / Storytelling events guide</a></p>
+<p><a href="https://newtroubadours.org">New Toubadours — UK Storytelling Clubs / Storytelling events guide</a></p>
 
 <br/>
 <div style="text-align: center;">
@@ -367,3 +367,6 @@ The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Stor
 
 <script data-goatcounter="https://somewhen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<hr/><p>Page maintained by <a href="https://montystoryteller.org"><em>Monty</a>.</p>
+        
