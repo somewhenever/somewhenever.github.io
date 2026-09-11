@@ -368,5 +368,7 @@ The *Somewhenever Storytelling* events kicked off with the first [*Somewhen Stor
 <script data-goatcounter="https://somewhen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-<hr/><p>Page maintained by <a href="https://montystoryteller.org"><em>Monty</a>.</p>
+<hr/>
+
+<p>Page maintained by <a href="https://montystoryteller.org"><em>Monty</em></a>.</p>
         
